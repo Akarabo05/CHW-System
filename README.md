@@ -175,6 +175,3 @@ OK
 | 3     | Docker + Git version control       | ✅ Done |
 | 4     | Test plan + 8 passing test cases   | ✅ Done |
 
----
-
-> *Built with ❤️ for SENG 8240 — Adventist University of Central Africa*
